@@ -1,0 +1,16 @@
+Authentication & Authorization
+Role Based Dashboards
+Live Location
+Real Time Victim and Donor Connection
+User Activity History
+Feedbacks & Responses
+Deliverence of Request (from donor)
+
+To Be Done:
+Admin Dashboard
+AI Agent Integration 
+
+- What will AI agent do?
+Verify victim request by analysing request details, predict risk score and accordingly handle status of request. If suspicous request (T > Risk_Score); warning 1 to victim. 
+Track user activity or suspicous requests (copy/paste request details) and take action accordingly.
+Verify provided help by donor. If donor doesn't take any action after 6 hours of accepting request, warning 1 to donor's account and request status back to "Pending".
